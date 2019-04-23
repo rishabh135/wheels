@@ -196,3 +196,6 @@ Please note that Ubuntu 16.04 LTS is the intended environment. If you have an ol
 ### MPI
 
 Using a wheel with MPI support? Be sure to run `sudo apt-get install mpich`.
+
+## To check compatibility with keras :
+[floydhub container results](https://docs.floydhub.com/guides/environments/)
